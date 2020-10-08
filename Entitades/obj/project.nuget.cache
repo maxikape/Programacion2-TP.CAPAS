@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4K51HZIoONCTfqEyzbRUY9/KRZrKaZUV/Y58xf29rRnMwecImgV15/l7EIFitcnOtywLY8t97T8swP6ia3KOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAXx\\source\\repos\\Programacion2\\Entitades\\Entitades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAXx\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MAXx\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

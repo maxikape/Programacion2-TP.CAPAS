@@ -1,0 +1,9 @@
+C:\Users\MAXx\source\repos\Programacion2\Entitades\bin\Debug\netstandard2.0\Entitades.deps.json
+C:\Users\MAXx\source\repos\Programacion2\Entitades\bin\Debug\netstandard2.0\Entitades.dll
+C:\Users\MAXx\source\repos\Programacion2\Entitades\bin\Debug\netstandard2.0\Entitades.pdb
+C:\Users\MAXx\source\repos\Programacion2\Entitades\obj\Debug\netstandard2.0\Entitades.AssemblyInfoInputs.cache
+C:\Users\MAXx\source\repos\Programacion2\Entitades\obj\Debug\netstandard2.0\Entitades.AssemblyInfo.cs
+C:\Users\MAXx\source\repos\Programacion2\Entitades\obj\Debug\netstandard2.0\Entitades.csproj.CoreCompileInputs.cache
+C:\Users\MAXx\source\repos\Programacion2\Entitades\obj\Debug\netstandard2.0\Entitades.dll
+C:\Users\MAXx\source\repos\Programacion2\Entitades\obj\Debug\netstandard2.0\Entitades.pdb
+C:\Users\MAXx\source\repos\Programacion2\Entitades\obj\Debug\netstandard2.0\Entitades.csprojAssemblyReference.cache
